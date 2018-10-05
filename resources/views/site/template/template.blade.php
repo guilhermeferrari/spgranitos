@@ -72,7 +72,7 @@
 							</ul> -->
 						</div>
 						<div class="image">
-							<img src="images/bg.jpg" alt="" />
+							<img src={{$background}} alt="" />
 						</div>
 					</section>
 
@@ -354,7 +354,7 @@
 							{!!$textoLogistica!!}
 						</div>
 						<div class="image">
-							<img src="images/services.jpg" alt="" />
+							<img src={{$services}} alt="" />
 						</div>
 					</section>
 
@@ -366,7 +366,7 @@
 							{!!$textoSobreNos!!}
 						</div>
 						<div class="image">
-							<img src="images/sobre-nos.jpg" alt="" />
+							<img src={{$about_us}} alt="" />
 						</div>
 					</section>
 
